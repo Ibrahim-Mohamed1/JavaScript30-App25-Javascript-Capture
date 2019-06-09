@@ -9,3 +9,7 @@ html {
     box-sizing: inherit; 
   }
 
+  div {
+    width: 100%;
+    padding: 100px;
+  }
