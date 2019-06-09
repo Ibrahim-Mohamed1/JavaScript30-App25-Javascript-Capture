@@ -5,3 +5,7 @@ html {
     background-color: black;
     margin: 0%;
   }
+  *, *:before, *:after { 
+    box-sizing: inherit; 
+  }
+
