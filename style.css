@@ -28,10 +28,10 @@ html {
   .span{
     font-size: 30px;
     margin-left: 10px;
-    color: black;
+    color: white;
 }
 a{
-    text-decoration-color: black;
+    text-decoration-color: white;
     margin-top: 0%;
 }
 @media(pointer: none), (pointer: coarse) {
