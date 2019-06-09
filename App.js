@@ -12,3 +12,8 @@ divs.forEach(div => div.addEventListener('click', logText, {
   once: true
 }));
 
+button.addEventListener('click', () => {
+  console.log('Click!!!');
+}, {
+  once: true
+});
